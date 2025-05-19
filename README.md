@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">Hi! I'm John Louis 👋</h1>
+<p align="center"><strong>Full Stack Developer</strong></p>
+<p align="center">
+  
+</p>
 
-<!--
-**Jilofish/Jilofish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 About Me
+- 🏡 Lives in Valenzuela, Philippines 🇵🇭  
+- 💻 Worked with Javascript, Typescript, NextJS, Unity and much more!  
+- 🌐 Check out my site for more info: 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Stay in touch
+- 📧 Gmail: deregla.john.louis@gmail.com  
+- 💬 [Stack Overflow] 
+- 🧑‍💻 [Github](https://github.com/Jilofish)
